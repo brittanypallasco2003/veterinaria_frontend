@@ -1,4 +1,4 @@
-# Plantilla para proyectos de react
+# Frontend Proyecto Veterinaria
 
 Landing Page
 ------
